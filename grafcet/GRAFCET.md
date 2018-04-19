@@ -34,5 +34,3 @@ Os elementos do **Diagrama Funcional Sequencial** são:
 * **Ligações Orientadas** - que conectam as etapas às condições, e estas às etapas.
 
 Com essas combinações o Sistema Automatizado propociona uma representação *estática*, com isso a visão do sistema fica *dinâmica*.
-
-![Elementos Grafcet](https://res.cloudinary.com/tm-system/image/upload/v1523825370/Elementos_Grafcet_vjsfwd.png)
